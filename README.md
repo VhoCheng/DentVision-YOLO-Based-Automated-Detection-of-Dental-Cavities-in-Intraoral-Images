@@ -11,7 +11,14 @@ DentVision is a deep learning research project for **automated detection of dent
 This repository presents the complete workflow of **dataset preparation, label conversion, model training, evaluation, and result visualization** for computer-aided dental diagnosis.
 
 ---
+## Contributors
+- Weihao Cheng (2024 Grade), School of Communication Engineering / School of Computer Science and Technology, Hangzhou Dianzi University
+- Hangyu Zhu (2024 Grade), School of Communication Engineering, Hangzhou Dianzi University
 
+## Collaboration
+We welcome collaboration opportunities! For inquiries, please contact: weihao_cheng@hdu.edu.cn
+
+---
 ## Overview
 
 Dental caries remain one of the most prevalent oral diseases worldwide and are closely associated with oral pain, infection, and reduced quality of life. Early identification of suspicious carious regions is clinically important, yet manual examination from images is time-consuming and depends heavily on professional expertise.
@@ -36,7 +43,7 @@ Below is a comparison between the **ground truth annotations** and the **model p
 <img src="assets/val_batch2_pred.jpg" width="700">
 </p>
 ---
-## Project Highlights
+#Project Highlights
 
 - Automated detection of **dental cavities** from intraoral images
 - Comparative evaluation of **YOLOv5s, YOLOv8n, and YOLOv8s**
